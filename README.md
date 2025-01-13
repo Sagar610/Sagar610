@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://dev.to/sagar610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sagar610" height="30" width="40" /></a>
 <a href="https://twitter.com/sagar610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagar610" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sagar-gondaliya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sagar-gondaliya/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sagar-gondaliya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sagar-gondaliya/" height="30" width="40" /></a>
 <a href="https://medium.com/@sagar610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sagar610" height="30" width="40" /></a>
 <a href="/sagar610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="sagar610" height="30" width="40" /></a>
 </p>
