@@ -34,8 +34,8 @@ A production-ready Point of Sale system built for small retail businesses.
 - Deployed and used in live retail environments
 - Iterated based on real user feedback
 
-🔗 Repo: **[POS GitHub repo link]**  
-🌐 Live: **[Vercel link]**
+
+
 
 ---
 
