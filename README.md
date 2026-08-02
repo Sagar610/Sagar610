@@ -48,7 +48,10 @@ Thermal label generator for a live retail workflow, optimized for day-to-day sho
 
 ## Selected private / production work
 
-Retail POS system used in live shop environments (billing, inventory, roles, audit logs, backup/restore). Not open-sourced; available to discuss privately.
+### Tillz POS (private)
+Production point-of-sale system for retail — billing, inventory, sales reporting, roles, and shop hardware workflows. Used in live retail environments. Repo is private; available to discuss.
+
+Also building: **EXPORTFLOW** — private export-docs workflow.
 
 ---
 
