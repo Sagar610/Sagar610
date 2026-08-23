@@ -1,7 +1,7 @@
 <h1 align="center">Sagar Gondaliya</h1>
 
 <p align="center">
-<strong>Senior Software Engineer (ex-Meta)</strong> · Full-Stack · Product Systems · London, UK
+<strong>Senior Software Engineer Meta</strong> · Full-Stack · Product Systems · London, UK
 </p>
 
 <p align="center">
