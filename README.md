@@ -65,6 +65,26 @@ Also building: **EXPORTFLOW** — private export-docs workflow.
 
 ---
 
+## GitHub Achievements
+
+Plan and proof: [badge-case](https://github.com/Sagar610/badge-case/blob/main/PLAN.md)
+
+<p>
+<a href="https://github.com/Sagar610?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" width="72" /></a>
+<a href="https://github.com/Sagar610?achievement=yolo&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" width="72" /></a>
+<a href="https://github.com/Sagar610?achievement=pull-shark&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" width="72" /></a>
+<a href="https://github.com/Sagar610?achievement=pair-extraordinaire&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Pair Extraordinaire" width="72" /></a>
+<a href="https://github.com/Sagar610?achievement=public-sponsor&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" alt="Public Sponsor" width="72" /></a>
+</p>
+
+- **Track A (done on GitHub):** Quickdraw ([issue #1](https://github.com/Sagar610/badge-case/issues/1)), YOLO + Pull Shark ([PR #2](https://github.com/Sagar610/badge-case/pull/2), no review; 2 merged PRs)
+- **Track B:** Pair Extraordinaire — need one real collaborator and a `Co-authored-by` trailer
+- **Track C:** Public Sponsor **or** Galaxy Brain (2 accepted discussion answers)
+
+GitHub can take a few minutes to show new medals on the [achievements tab](https://github.com/Sagar610?tab=achievements).
+
+---
+
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/sagar-gondaliya/
